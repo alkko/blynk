@@ -1,17 +1,18 @@
-**Checking the installation of Blynk on the tablet**
- On the tablet go to the Play Market
- Find the Blynk app
-Run Blynk installation
-After installation is complete, run the application
-Check that the application is running correctly.
-
+ ----------------
+ **Checking the installation of Blynk on the tablet**
+  - On the tablet go to the Play Market
+  - Find the Blynk app
+  - Run Blynk installation
+  - After installation is complete, run the application
+  - Check that the application is running correctly.
+--------------------
 **Checking the installation of Blynk on a smartphone**
  On the tablet go to the Play Market
  Find the Blynk app
 Run Blynk installation
 After installation is complete, run the application
 Check that the application is running correctly.
-
+----------------
 **Check account creation account**
 On the tablet, run the application
 We press to create a new account.
