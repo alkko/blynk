@@ -8,8 +8,8 @@
 --------------------
 **Checking the installation of Blynk on a smartphone**
  - On the tablet go to the Play Market
-  - Find the Blynk app
-  - Run Blynk installation
+ - Find the Blynk app
+ - Run Blynk installation
  - After installation is complete, run the application
 - Check that the application is running correctly.
 ----------------
