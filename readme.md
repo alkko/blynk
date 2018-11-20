@@ -7,7 +7,7 @@
   - Check that the application is running correctly.
 --------------------
 **Checking the installation of Blynk on a smartphone**
- - On the tablet go to the Play Market
+ - On the a smartphone go to the Play Market
  - Find the Blynk app
  - Run Blynk installation
  - After installation is complete, run the application
@@ -18,7 +18,7 @@
 - We press to create a new account.
 - In the window that opens, enter the Email,
 - Enter the password
-- Push Sing UE
+- Push Sing Up
 - The main window should open.
 
 
@@ -27,7 +27,7 @@
 - We press to create a new account.
 - In the window that opens, enter the Email,
 - Do not enter the password, leave blank
-- Push Sing UE
+- Push Sing Up
 - The message "Password not entered" should appear.
 
 
@@ -36,7 +36,7 @@
 - We press to create a new account.
 - In the window that opens, do not enter the email, leave blank
 - Enter the password
-- Push Sing UE
+- Push Sing Up
 - The message "Email not entered" should appear.
 
  **Facebook login verification**
