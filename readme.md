@@ -14,21 +14,21 @@
 - Check that the application is running correctly.
 ----------------
 **Check account creation account**
-On the tablet, run the application
-We press to create a new account.
-In the window that opens, enter the Email,
-Enter the password
-Push Sing UE
-The main window should open.
+- On the tablet, run the application
+- We press to create a new account.
+- In the window that opens, enter the Email,
+- Enter the password
+- Push Sing UE
+- The main window should open.
 
 
 **Check account creation account**
-On the tablet, run the application
-We press to create a new account.
-In the window that opens, enter the Email,
-Do not enter the password, leave blank
-Push Sing UE
-The message "Password not entered" should appear.
+- On the tablet, run the application
+- We press to create a new account.
+- In the window that opens, enter the Email,
+- Do not enter the password, leave blank
+- Push Sing UE
+- The message "Password not entered" should appear.
 
 
 **Check account creation account**
